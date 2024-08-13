@@ -68,6 +68,7 @@ function mostrarItem() {
         }
     })
 
+    
     const inputCheck = document.querySelectorAll('input[type="checkbox"]')
 
     inputCheck.forEach(i => {
